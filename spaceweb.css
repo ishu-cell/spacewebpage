@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-style: serif ;
+    font-size: xx-large;
+    font-weight: bolder;
+    color:#82a5ca;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 400;
+    font-optical-sizing: auto;
+
+
+}
+.btn{
+    border: 0px;
+    padding: 7px 20px;
+    font-family: inherit;
+    color:rgb(3, 94, 164);
+    background-color: #CCB6B7;
+    font-size: xx-large;
+    font-weight: 800;
+    border-right: 3px solid gray;
+    border-bottom: 3px solid gray;
+    
+}
+.s{
+    text-decoration: underline;
+    text-underline-offset: 20px;
+    text-decoration-thickness: 7px;
+}
+#i{
+    width:300px;
+    height: 70px;
+    margin: 30px auto;
+}
+  
+.here{
+    margin-top: 0px;
+    background-image: url("giphy.webp");
+    background-size: cover;
+    padding-bottom: 200px;
+}
+.term{
+    font-family: inherit;
+    color: rgb(3, 94, 164);
+}
